@@ -11,13 +11,13 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
+            background-color: #1a1a1a; /* Fondo oscuro */
+            color: #e0e0e0; /* Color de texto claro */
             line-height: 1.6;
         }
 
         header {
-            background: #0073e6;
+            background: #0073e6; /* Color del encabezado */
             color: white;
             padding: 1rem 0;
             text-align: center;
@@ -43,9 +43,9 @@
             width: 80%;
             margin: 2rem auto;
             padding: 2rem;
-            background: white;
+            background: #2a2a2a; /* Fondo del contenedor */
             border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
         }
 
         .features {
@@ -55,7 +55,7 @@
         }
 
         .feature {
-            background: #e7f0ff;
+            background: #3a3a3a; /* Fondo de las características */
             padding: 1rem;
             border-radius: 10px;
             transition: transform 0.3s ease;
@@ -68,7 +68,7 @@
         footer {
             text-align: center;
             padding: 1rem 0;
-            background: #0073e6;
+            background: #0073e6; /* Color del pie de página */
             color: white;
             position: relative;
             bottom: 0;
@@ -82,6 +82,25 @@
 
         a:hover {
             text-decoration: underline;
+        }
+
+        .download-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 18px;
+            color: white;
+            background-color: #0073e6; /* Color del botón */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        .download-button:hover {
+            background-color: #005bb5; /* Color del botón al pasar el mouse */
+            transform: scale(1.05);
         }
     </style>
 </head>
@@ -98,8 +117,8 @@
         </p>
 
         <p align="center">
-            <a href="https://github.com/CodeByDante/Adguard-dns/releases/download/Adguard/Adguard.apk">
-                <img src="https://img.shields.io/badge/Descargar-AdGuard-blue" alt="Descargar AdGuard APK">
+            <a class="download-button" href="https://github.com/CodeByDante/Adguard-dns/releases/download/Adguard/Adguard.apk">
+                Descargar AdGuard APK
             </a>
         </p>
 
@@ -144,4 +163,4 @@
 
 </body>
 
-</html>
+                                                                                                                  </html>
