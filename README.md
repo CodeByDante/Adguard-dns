@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/CodeByDante/Adguard-dns/releases/download/Adguard/Adguard.apk">
-    <img src="https://img.shields.io/badge/Descargar-AdGuard-blue" alt="Descargar AdGuard APK">
+    <img src="https://img.shields.io/badge/Descargar-AdGuard-green" alt="Descargar AdGuard APK">
   </a>
 </p>
 
