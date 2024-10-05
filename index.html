@@ -1,95 +1,147 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>DNS AdGuard</title>
+    <title>AdGuard DNS Premium - Proyecto Personal</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
         body {
-            background-color: #2c2c2c; /* Plomo oscuro */
-            color: #e0e0e0; /* Texto claro */
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
         }
 
         header {
-            background-color: #1f1f1f; /* Fondo más oscuro para el encabezado */
-            padding: 20px;
+            background: #0073e6;
+            color: white;
+            padding: 1rem 0;
             text-align: center;
         }
 
         h1 {
-            color: #ffffff;
             margin: 0;
+            font-size: 2.5rem;
         }
 
-        main {
-            padding: 20px;
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            transition: transform 0.3s ease;
         }
 
-        section {
-            margin-bottom: 20px;
+        img:hover {
+            transform: scale(1.05);
+        }
+
+        .container {
+            width: 80%;
+            margin: 2rem auto;
+            padding: 2rem;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1rem;
+        }
+
+        .feature {
+            background: #e7f0ff;
+            padding: 1rem;
+            border-radius: 10px;
+            transition: transform 0.3s ease;
+        }
+
+        .feature:hover {
+            transform: scale(1.05);
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background: #0073e6;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
         }
 
         a {
-            color: #4CAF50; /* Verde para los enlaces */
+            color: #0073e6;
             text-decoration: none;
         }
 
         a:hover {
             text-decoration: underline;
         }
-
-        footer {
-            background-color: #1f1f1f;
-            padding: 10px;
-            text-align: center;
-            color: #888;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
     </style>
 </head>
+
 <body>
+
     <header>
-        <h1>DNS AdGuard</h1>
+        <h1>AdGuard DNS Premium</h1>
     </header>
 
-    <main>
-        <section>
-            <h2>¿Qué es DNS de AdGuard?</h2>
-            <p>El DNS de AdGuard es un servicio de DNS que bloquea anuncios y rastreadores a nivel de red. Es rápido, seguro y gratuito.</p>
-        </section>
+    <div class="container">
+        <p align="center">
+            <img src="https://github.com/user-attachments/assets/f8f74673-5ddb-4b15-9c40-efdf3ff0bc93" alt="AdGuard Logo" width="200">
+        </p>
 
-        <section>
-            <h2>Configuración del DNS</h2>
-            <p>Para usar el DNS de AdGuard, configura tu dispositivo con las siguientes direcciones:</p>
-            <ul>
-                <li><strong>IPv4:</strong> 94.140.14.14 (primario), 94.140.15.15 (secundario)</li>
-                <li><strong>IPv6:</strong> 2a10:50c0::ad1:ff (primario), 2a10:50c0::ad2:ff (secundario)</li>
-            </ul>
-        </section>
+        <p align="center">
+            <a href="https://github.com/CodeByDante/Adguard-dns/releases/download/Adguard/Adguard.apk">
+                <img src="https://img.shields.io/badge/Descargar-AdGuard-blue" alt="Descargar AdGuard APK">
+            </a>
+        </p>
 
-        <section>
-            <h2>Beneficios</h2>
-            <ul>
-                <li>Bloqueo de anuncios y rastreadores.</li>
-                <li>Protección contra phishing y malware.</li>
-                <li>Navegación más rápida y segura.</li>
-            </ul>
-        </section>
+        <h2>Descripción</h2>
+        <p><strong>AdGuard DNS Premium</strong> es la versión avanzada de mi servicio de DNS, diseñado para ofrecer funcionalidades adicionales que brindan mayor control, protección y personalización en tu experiencia de navegación.</p>
 
-        <section>
-            <h2>Más información</h2>
-            <p>Para más detalles, visita el sitio oficial de <a href="https://adguard-dns.com/" target="_blank">AdGuard DNS</a>.</p>
-        </section>
-    </main>
+        <h2>✨ Características de AdGuard DNS Premium</h2>
+        <div class="features">
+            <div class="feature">
+                <h3>Filtros Personalizados</h3>
+                <p>Crea tus propios filtros para bloquear contenido específico en tu red.</p>
+            </div>
+            <div class="feature">
+                <h3>Estadísticas Detalladas</h3>
+                <p>Accede a informes completos sobre el tráfico DNS, incluyendo sitios bloqueados y más.</p>
+            </div>
+            <div class="feature">
+                <h3>Gestión de Dispositivos</h3>
+                <p>Controla y monitorea el uso de AdGuard DNS en cada dispositivo conectado a tu red.</p>
+            </div>
+            <div class="feature">
+                <h3>Protección Avanzada contra Rastreo</h3>
+                <p>Bloquea anuncios y rastreadores sofisticados para una navegación más segura.</p>
+            </div>
+            <div class="feature">
+                <h3>Seguridad Mejorada</h3>
+                <p>Protege tu red de amenazas y sitios web maliciosos de manera más efectiva.</p>
+            </div>
+            <div class="feature">
+                <h3>Soporte Prioritario</h3>
+                <p>Disfruta de acceso al soporte técnico premium para resolver cualquier duda o inconveniente.</p>
+            </div>
+        </div>
+
+        <h2>🚀 Cómo Obtener AdGuard DNS Premium</h2>
+        <p>Para acceder a todas estas características, descarga el archivo en la sección de <strong>releases</strong> de este repositorio.</p>
+    </div>
 
     <footer>
-        &copy; 2024 DNS AdGuard. Todos los derechos reservados.
+        <p>© 2009–2024 Proyecto Personal de Gonzalo</p>
     </footer>
+
 </body>
+
 </html>
