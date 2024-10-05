@@ -1,19 +1,20 @@
-# AdGuard DNS Premium
+# 🌐 AdGuard DNS Premium
 
-AdGuard DNS Premium es la versión avanzada del servicio de DNS que ofrece funcionalidades adicionales sobre la versión gratuita, proporcionando mayor control, protección y personalización en la experiencia de navegación.
+**AdGuard DNS Premium** es la versión avanzada de nuestro servicio de DNS, diseñada para ofrecerte funcionalidades adicionales que brindan mayor control, protección y personalización en tu experiencia de navegación.
 
-## Características de AdGuard DNS Premium:
+## ✨ Características de AdGuard DNS Premium
 
-1. **Filtros personalizados**: Crea tus propios filtros para bloquear contenido específico en tu red.
-2. **Estadísticas detalladas**: Accede a informes sobre el tráfico DNS, incluyendo los sitios bloqueados, el historial de solicitudes y más.
-3. **Gestión de dispositivos**: Controla y monitorea el uso de AdGuard DNS en cada uno de los dispositivos conectados a tu red.
-4. **Protección avanzada contra rastreadores**: Bloquea no solo anuncios, sino también rastreadores más sofisticados.
-5. **Seguridad mejorada**: Protege tu red de amenazas y sitios web maliciosos de manera más efectiva.
-6. **Soporte prioritario**: Acceso al soporte técnico premium para resolver cualquier duda o inconveniente de manera más rápida.
+- **Filtros Personalizados**: Crea tus propios filtros para bloquear contenido específico en tu red.
+- **Estadísticas Detalladas**: Accede a informes completos sobre el tráfico DNS, incluyendo sitios bloqueados, historial de solicitudes y más.
+- **Gestión de Dispositivos**: Controla y monitorea el uso de AdGuard DNS en cada uno de los dispositivos conectados a tu red.
+- **Protección Avanzada contra Rastreo**: Bloquea anuncios y rastreadores sofisticados para una navegación más segura.
+- **Seguridad Mejorada**: Protege tu red de amenazas y sitios web maliciosos de manera más efectiva.
+- **Soporte Prioritario**: Disfruta de acceso al soporte técnico premium para resolver cualquier duda o inconveniente de forma rápida y eficiente.
 
-### Cómo obtener AdGuard DNS Premium:
+## 🚀 Cómo Obtener AdGuard DNS Premium
 
-Para acceder a todas estas características, descarga en el `release` de este repositorio 
+Para acceder a todas estas características, descarga el archivo en la sección de **releases** de este repositorio.
 
+---
 
 © 2009–2024 Adguard Software Ltd.
