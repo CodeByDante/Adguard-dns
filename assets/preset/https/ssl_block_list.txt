@@ -1,0 +1,7 @@
+// necessary to block Youtube ads
+googleapis.com
+// used by the facebook ad network
+graph.facebook.com
+// used by Google Analytics and ad network
+doubleclick.net
+googleadservices.com

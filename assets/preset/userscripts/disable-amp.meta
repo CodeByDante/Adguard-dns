@@ -1,0 +1,69 @@
+
+{
+    "name": "Disable AMP",
+    "name:ko": "AMP 비활성화",
+    "name:zh": "禁用 AMP",
+    "name:lt": "Išjungti AMP",
+    "name:ar": "تعطيل AMP",
+    "name:pl": "Wyłącz AMP",
+    "name:de": "AMP deaktivieren",
+    "name:pt": "Desativar AMP",
+    "name:et": "Keela AMP",
+    "name:ro": "Dezactivare AMP",
+    "name:fr": "Désactiver AMP",
+    "name:ja": "AMPを無効化",
+    "name:zh-TW": "禁用加速的行動頁面（AMP）",
+    "name:vi": "Vô hiệu hóa AMP",
+    "name:uk": "Вимкнути AMP",
+    "name:ru": "Отключить AMP",
+    "name:bg": "Деактивирайте AMP",
+    "name:id": "Nonaktifkan AMP",
+    "name:fa": "غيرفعالسازي شتاب دهنده صفحات موبایل",
+    "name:es": "Deshabilitar AMP",
+    "namespace": "adguard",
+    "description": "This is a very simple userscript that disables AMP on the Google search results page.",
+    "description:ko": "이것은 Google 검색 결과 페이지에서 AMP를 비활성화하는 매우 간단한 사용자 스크립트입니다.",
+    "description:zh": "这是一个非常简单的用于在 Google 搜索结果页禁用 AMP 的用户脚本。",
+    "description:lt": "Tai labai paprastas naudotojo skriptas, atjungiantis AMP Google paieškos rezultatų puslapyje.",
+    "description:ar": "هذا سكربت بسيط جدا، يعمل على تعطل AMP في صفحات بحث Google.",
+    "description:pl": "Jest to bardzo prosty skrypt użytkownika, który wyłącza AMP na stronie wyników wyszukiwania Google.",
+    "description:de": "Dies ist ein sehr einfaches Userscript, das AMP auf der Seite der Google-Suchergebnisse deaktiviert.",
+    "description:pt": "Este é um script muito simples que desativa o AMP na página de resultados de pesquisa do Google.",
+    "description:et": "Tegemist on lihtsa kasutajaskriptiga, mis keelab Google otsingutulemustes AMP-i.",
+    "description:ro": "Acesta este un script utilizator foarte simplu pentru a dezactiva AMP în pagina cu rezultatele cautării Google.",
+    "description:fr": "C'est un script utilisateur très simple pour désactiver AMP sur les pages de résultats de Google.",
+    "description:ja": "Google検索結果ページでAMPを無効にするシンプルなユーザースクリプトです。",
+    "description:zh-TW": "這是一個禁用於 Google 搜尋結果頁面上之加速的行動頁面（AMP）之非常簡單的使用者腳本。",
+    "description:vi": "Đây là một mô tả người dùng rất đơn giản, vô hiệu hóa AMP trên trang kết quả tìm kiếm của Google.",
+    "description:uk": "Це дуже простий користувацький скрипт, який вимикає AMP на сторінці результатів пошуку Google.",
+    "description:ru": "Это - очень простой скрипт, который отключает AMP на результатах поиска Google.",
+    "description:bg": "Това е много прост потребителски скрипт, който деактивира AMP на страницата с резултати от търсенето с Google.",
+    "description:id": "Ini adalah userscript yang sangat mudah yang dapat menonaktifkan AMP pada halaman hasil pencarian Google.",
+    "description:fa": "این یک یوزراسکریپت بسیار ساده است که شتاب دهنده صفحات موبایل را در نتایج صفحه جستجو گوگل غیرفعال می کند.",
+    "description:es": "Este es un userscript muy simple que deshabilita AMP en la página de resultados de búsqueda de Google.",
+    "version": "1.0.4",
+    "updateURL": "https://userscripts.adtidy.org/release/disable-amp/1.0/disable-amp.meta.js",
+    "downloadURL": "https://userscripts.adtidy.org/release/disable-amp/1.0/disable-amp.user.js",
+    "homepageURL": "https://adguard.com/",
+    "supportURL": "",
+    "run-at": "document-end",
+    "icon": "",
+    "icon64": "",
+    "noframes": false,
+    "match": [
+    ],
+    "include": [
+        "https://www.google.*/*"
+    ],
+    "exclude": [
+    ],
+    "grant": [
+        "none"
+    ],
+    "connect": [
+    ],
+    "require": [
+    ],
+    "resource": [
+    ]
+}

@@ -1,0 +1,188 @@
+// http://jira.performix.ru/browse/AG-6266
+maximsblog.blogspot.com.tv
+// http://jira.performix.ru/browse/AG-6748
+com.livejournal.android
+// http://jira.performix.ru/browse/AG-6787
+ru.yandex.dictation
+// blocking ads breaks video player
+// Bug ID=AG-7983
+// tv.vintera.smarttv
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/195
+// tv.periscope.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/350
+com.osp.app.signin
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/364
+// http://forum.adguard.com/showthread.php?9186
+com.bvblogic.nimbusnote
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/374
+com.nektome.talk
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/45
+com.zynga.FarmVille2CountryEscape
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/327
+com.google.android.apps.adwords
+com.google.android.apps.ads.express
+// Bug ID=AG-6744
+com.gameville.volleyhangout
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/658
+com.google.android.calendar
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/883
+com.virginmedia.tvanywhere
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/781
+com.melodis.midomiMusicIdentifier.freemium
+com.melodis.midomiMusicIdentifier
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1236
+com.netmarble.sknightsgb
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1330
+com.ftt.lostkaos
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2038
+com.scannerradio
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2186
+com.zing.zalo
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2917
+com.kms.free
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3718
+com.tomtom.speedcams.android.map
+// https://jira.com/browse/AG-6790
+com.tomtom.amigo.huawei
+// https://jira.com/browse/AG-10187
+com.rapido.passenger
+
+// ----- Banking apps -----
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/169
+ru.sberbankmobile
+ru.alfabank.mobile.android
+ru.alfabank.oavdo.amc
+com.idamob.tinkoff.android
+ru.tcsbank.wallet
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3196
+ru.simpls.mbrd.ui.beta
+ru.simpls.mbrd.ui
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/414
+se.nordea.mobilebank
+se.bankgirot.swish
+com.bankid.bus
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/414
+com.htsu.hsbcpersonalbanking
+au.com.ingdirect.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/397
+com.bkm.mobil
+com.pozitron.iscep
+com.ykb.android
+com.paypal.android.p2pmobile
+com.ziraat.ziraatmobil
+tr.com.sekerbilisim.mbank
+com.openbank
+subsembly.banking
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/702
+de.dkb.portalapp
+com.starfinanz.mobile.android.dkbpushtan
+com.centralway.numbrs
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/637
+kz.crystalspring.bankofastana
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/743
+com.ally.MobileBanking
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/832
+com.megafon.bank
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/848
+com.axabanque.fr
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/851
+ru.raiffeisennews
+eu.eleader.mobilebanking.raiffeisen
+com.advantage.RaiffeisenBank
+ch.raiffeisen.android
+com.isis_papyrus.raiffeisen_pay_eyewdg
+ch.raiffeisen.phototan
+com.guidance.android.apps.raiffeisen.banklet
+com.evolaris.rmclub
+com.hal.mbank
+hr.asseco.android.jimba.rmb
+com.raiffeisen.online.mobile
+rs.Raiffeisen.mobile
+lu.raiffeisen.mobile.android
+cz.rb.app.smartphonebanking
+ua.pentegy.avalbank.production
+at.racon.ebba
+com.infinum.rba
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/852
+uk.co.tsb.mobilebank
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/945
+ru.letobank.Prometheus
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1013
+com.sc.danb.scbankapp
+// https://github.com/AdguardTeam/HttpsExclusions/issues/1
+com.venmo
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1145
+com.ing.mobile
+com.ing.mobilepayments
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1287
+de.number26.android
+com.chase.sig.android
+com.wf.wellsfargomobile
+com.bnpp.easybanking
+com.discoverfinancial.mobile
+mobi.societegenerale.mobile.lappli
+de.commerzbanking.mobil
+com.db.mm.deutschebank
+com.usbank.mobilebanking
+com.infonow.bofa
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1361
+com.banksimple
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1411
+com.mobicon.mbank2.belarusbank
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1638
+com.finansbank.mobile.cepsube
+com.garanti.cepsubesi
+com.freecharge.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1694
+com.kbstar.kbbank
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1699
+com.otsar.nativeapp
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1710
+finansbank.enpara
+finansbank.enpara.sirketim
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1777
+com.no.entercard.coopmastercard
+se.entercard.remember
+be.bankvanbreda.mobile
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1981
+wit.android.bcpBankingApp.millenniumPL
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2150
+com.pnc.ecommerce.mobile
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2945
+com.nordea.mobiletoken
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2957
+com.fortuneo.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3082
+com.citibank.mobile.ru
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3157
+cz.csas.georgego
+cz.csas.app.georgeklic
+cz.csas.app.friends24
+cz.csas.app.poketka
+com.cleverlance.csas.servis24
+cz.csas.app.mujstav
+cz.csas.business24
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3205
+fr.banquepopulaire.cyberplus
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3222
+com.finanteq.finance.bgz
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3262
+com.fd.accessplusecs.aqua
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3263
+com.alrayanbankuk.mobile
+// https://jira.com/browse/AG-1138
+ru.mkb.mobile
+// https://jira.com/browse/AG-1431
+com.alseda.bapb
+// https://jira.com/browse/AG-2847
+com.phonepe.app
+// https://jira.com/browse/AG-6735
+posteitaliane.posteapp.appbpol
+// https://jira.com/browse/AG-3049
+com.homeretailgroup.myargoscard
+// https://jira.com/browse/AG-6480
+com.dkbcodefactory.banking
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/4989
+com.meross.meross
+// ----- Bank apps end -----

@@ -1,0 +1,320 @@
+com.facebook.katana
+com.facebook.orca
+com.instagram.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1135
+com.microsoft.cortana
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/320
+ru.yandex.taxi
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/385
+com.sec.android.app.samsungapps
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/438
+com.facebook.lite
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/427
+com.ubercab
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/466
+com.americanexpress.android.acctsvcs.us
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/465
+com.payoneer.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/469
+com.snapchat.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/418
+com.twitter.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/396
+gbis.gbandroid
+// https://github.com/AdguardTeam/ExperimentalFilter/issues/2008
+com.amazon.mShop.android.shopping
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/394
+de.lotum.whatsinthefoto.us
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/395
+air.com.freshplanet.games.SongPop2
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/492
+com.tranzmate
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/531
+com.smartthings.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/588
+ru.rambler.mail
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/559
+ru.mts.music.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/612
+com.jet.jet.app
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/676
+com.amazon.kindle
+com.amazon.sellermobile.android
+com.amazon.mShop.android
+uk.amazon.mShop.android
+com.amazon.windowshop
+com.amazon.drive
+com.amazon.clouddrive.photos
+com.amazon.venezia
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/655
+nl.sanomamedia.android.nu
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/686
+com.planetromeo.android.app
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/659
+by.euanpa.schedulegrodno
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/650
+org.coursera.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/624
+com.heetch
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/584
+com.google.android.googlequicksearchbox
+//https://github.com/AdguardTeam/AdguardForAndroid/issues/674
+com.samsung.voiceserviceplatform
+//https://github.com/AdguardTeam/AdguardForAndroid/issues/710
+com.grindrapp.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/715
+com.neuralprisma
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/447
+ru.yandex.yandexnavi
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/679
+com.touchtype.swiftkey
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/680
+com.lazada.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/733
+com.waze
+// https://github.com/issues/assigned
+de.idealo.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/679
+com.touchtype.swiftkey.beta
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/388
+ru.yandex.mail
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1278
+ru.yandex.disk
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1296
+ru.yandex.market
+ru.yandex.weatherplugin
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/792
+com.apple.android.music
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/753
+com.google.android.apps.tachyon
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/789
+com.siber.roboform
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/804
+com.google.android.apps.fireball
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/826
+com.skype.raider
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/831
+ua.com.rozetka.shop
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/845
+com.sofascore.results
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/873
+com.raumfeld.android.controller
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/890
+com.dunkinbrands.otgo
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/895
+ru.beeline.services
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/900
+ua.novaposhtaa
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/898
+rg.kman.AquaMail
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/915
+com.cloudmosa.puffinFree
+com.cloudmosa.puffin
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/916
+com.samsung.android.themestore
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/920
+com.citi.citimobile
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/942
+com.microsoft.microsoftsolitairecollection
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/944
+com.microsoft.office.lync15
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/991
+org.cryptomator.beta app
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/987
+com.poloniumarts.svyaznoy
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1034
+air.nn.mobile.app.main
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/965
+com.google.android.youtube.tv
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1010
+com.facebook.mlite
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1041
+com.ecobee.athenamobile
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1040
+com.nuance.swype.dtc
+com.nuance.swype.trial
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/984
+com.google.android.inputmethod.latin
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1093
+com.korbit.trader
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1089
+com.kaspersky.safekids
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/762
+ru.yota.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1164
+com.arvifox.hibiny
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1204
+com.ivideon.client
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1273
+com.nimses
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1347
+ru.mail.auth.totp
+com.google.android.apps.authenticator2
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1347
+com.authy.authy
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1324
+com.avito.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1143
+ua.slando
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1389
+com.samruston.twitter
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1400
+com.samsung.android.bixby.wakeup
+com.samsung.android.bixby.agent
+com.samsung.android.bixby.es.globalaction
+com.samsung.android.bixby.agent.dummy
+com.samsung.android.bixby.voiceinput
+com.samsung.android.bixby.plmsync
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1418
+jp.naver.line.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1431
+com.wealthfront
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1103
+com.viber.voip
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1144
+ru.sports
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1515
+com.google.android.apps.chromecast.app
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1518
+com.bemyeyes.bemyeyes
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1531
+mega.privacy.android.app
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1536
+com.vkontakte.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1372
+ru.ok.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1591
+ru.fourpda.client
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1669
+com.netgear.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1686
+ru.yandex.money
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1672
+com.olacabs.customer
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1544
+com.tellm.android.app
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1701
+nl.rijksoverheid.digid.pub
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1718
+com.droid4you.application.wallet
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1817
+com.sonymobile.androidapp.audiorecorder
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1825
+com.google.android.apps.maps
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1841
+com.google.android.apps.tasks
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1860
+com.mfoundry.mb.android.mb_031101321
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1866
+com.lsdroid.cerberus
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1899
+org.lumicall.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1940
+com.bbm
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1949
+com.myyearbook.m
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2039
+com.box.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2082
+com.alseda.ideabank
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2103
+com.gashpay.personal
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2106
+ru.sberbank.spasibo
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2246
+in.amazon.mShop.android.shopping
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2283
+com.olo.elpolloloco
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2385
+com.google.android.wearable.app
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2551
+widget.dd.com.overdrop.free
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2618
+ru.tinkoff.mvno
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2624
+com.bskyb.skyq.it
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2920
+gr.cosmote.whatsup
+gr.cosmote.myaccount.widget
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2970
+ch.threema.app
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3121
+com.automattic.simplenote
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3072
+com.udemy.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2824
+com.vodafone.selfservis
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3277
+com.amazon.avod.thirdpartyclient
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3306
+com.scee.psxandroid
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3321
+ch.protonvpn.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3322
+com.readdle.spark
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3323
+com.imdb.mobile
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3325
+com.vtosters.android
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3206
+com.x8bit.bitwarden
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3204
+com.pelmorex.WeatherEyeAndroid
+// https://jira.com/browse/AG-5165
+com.google.android.feedback
+// https://jira.com/browse/AG-22384
+com.kantarworldpanel.shoppix
+// https://jira.com/browse/AG-27310
+uk.co.sainsburysbank.mobile.prod
+uk.co.sainsburysbank.travelmoneycard
+pl.bzwbk.bzwbk24
+es.bancosantander.apps
+pl.santanderconsumer
+uk.co.santander.santanderUK
+es.bancosantander.empresas
+com.sovereign.santander
+de.santander.presentation
+com.santander.app
+com.santander.us.sme
+mx.bancosantander.supermovil
+at.santanderconsumer.oksantander
+es.bancosantander.android.confirming
+ar.com.santander.rio.mbanking
+com.santander.webbanking
+mobile.santander.de.smartsign
+mx.com.santander.superwallet
+com.santander.bpi
+pt.santander.oneappparticulares
+br.com.santander.way
+com.santandermovelempresarial.app
+com.mobilenik.bsre
+cl.santander.smartphone
+cl.santander.santanderpasschile
+com.santander.portalcliente
+mx.com.santander.SantanderSeguros
+cl.santander.app.empresas
+es.bancosantander.android.sanwear
+es.banconsantander.app.tablet
+com.santander.one.uk.live
+com.santander.selectglobal
+uy.com.Santander
+br.com.santander.mobilebroker
+uy.com.Santander.TC
+pt.santandertotta.mobileempresas
+com.comarch.mobile.investment
+es.santander.Criptocalculadora
+com.santanderinternational.app
+com.tm.sanstp
+es.bancosantander.accionistas
+com.evry.android.cardcompanion.san
+uk.co.santander.corporatemobile
+com.santander.enlace.BET
+pl.bzwbk.ibiznes24
+uy.bancosantander.inversiones
+br.com.santander.amex
+uy.com.banred.santander
+com.tm.sanstp.nexussign
+uk.co.santander.businessbankingUK
+cl.com.superdigital
+com.suressedirektbank.de
+uy.bancosantander.empresas

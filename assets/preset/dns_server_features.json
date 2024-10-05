@@ -1,0 +1,44 @@
+[
+    {
+        "name" : "Ad blocking",
+        "type" : "ad_blocking",
+        "description" : "Blocks ads and tracking servers",
+        "logo" : "ad_blocking_feature_logo"
+    },
+    {
+        "name" : "Encryption",
+        "type" : "encryption",
+        "description" : "Does not let third-parties spy on your browsing activity",
+        "logo" : "encryption_feature_logo"
+    },
+    {
+        "name" : "Secure",
+        "type" : "secure",
+        "description" : "Blocks known malware and phishing domains",
+        "logo" : "secure_feature_logo"
+    },
+    {
+        "name" : "Adult content blocking",
+        "type" : "adult_content_blocking",
+        "description" : "Blocks websites with adult content",
+        "logo" : "adult_content_blocking_feature_logo"
+    },
+    {
+        "name" : "No logs",
+        "type" : "no_logs",
+        "description" : "Does not store your DNS queries logs",
+        "logo" : "no_logs_feature_logo"
+    },
+    {
+        "name" : "Safe search",
+        "type" : "safe_search",
+        "description" : "Enforces safe search for popular search engines and YouTube",
+        "logo" : "safe_search_feature_logo"
+    },
+    {
+        "name" : "Unencrypted DNS",
+        "type" : "unencrypted_dns",
+        "description" : "Third parties can see your DNS queries",
+        "logo" : "unencrypted_dns_feature_logo"
+    }
+]

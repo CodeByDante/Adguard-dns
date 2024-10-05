@@ -1,0 +1,329 @@
+//
+// Network exclusions list
+//
+
+/// ----- VPN and filtering apps start ----- ///
+
+com.drweb
+com.drweb.pro
+com.drweb.pro.market
+com.opera.max
+com.opera.max.global
+me.disconnect.mobile2
+com.mobisoft.webguard
+app.greyshirts.firewall
+hotspotshield.android.vpn
+org.hola
+com.tunnelbear.android
+com.avast.android.vpn
+com.spotflux.android
+net.hideman
+com.aed.droidvpn
+com.zenmate.android
+com.exalinks.neopard
+com.simplexsolutionsinc.vpn_unlimited
+com.googlecode.droidwall.free
+org.torproject.android
+com.onavo.android.onavoics
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/740
+com.pandasecurity.pandaav
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/993
+com.globus.vpn
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/995
+net.probki.geonet
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/962
+cityguide.probki.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1068
+ru.cardsmobile.mw3
+com.cardsmobile.walletagent.common.hce
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1088
+com.pcloud.pcloud
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1353
+com.nextbit.constellation
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1183
+de.blinkt.openvpn
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1687
+com.zte.android.ztelink
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2198
+com.cisco.webex.meetings
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2399
+com.google.android.apps.walletnfcrel
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2402
+org.codeaurora.ims
+com.android.service.ims
+com.android.service.ims.presence
+com.google.android.ims
+com.google.android.carrier
+com.google.android.carriersetup
+// https://jira.com/browse/AG-7868
+com.ubnt.easyunifi
+// https://jira.com/browse/AG-7803
+de.avm.android.fritzapp
+
+// This is a workaround solution for the Android Download Manager that is some buggy and
+// cannot download anything while a device connected to VPN service interface.
+// There are a lot of mentions about it:
+// Our's repo mentions:
+// 1) https://github.com/AdguardTeam/AdguardForAndroid/issues/597
+// 2) https://github.com/AdguardTeam/AdguardForAndroid/issues/3355
+// Blokada's repo mention: https://github.com/blokadaorg/blokada/issues/324
+// Google Bug tracker's mention: https://issuetracker.google.com/u/1/issues/111574523
+// Google Bug tracker's mention: https://issuetracker.google.com/u/1/issues/37105245
+// Even a special commit: https://github.com/aosp-mirror/platform_packages_providers_downloadprovider/commit/26c68db9ccf1983f5d6e8a734f8ffccea3849f10
+// Technically, com.android.providers.downloads.ui package filtering breaks the Download Manager
+// We do not filter both packages to get the best effect
+// UPD: these two rules are deprecated, user can make a workaround for these apps in the Low Level Settings
+//com.android.providers.downloads
+//com.android.providers.downloads.ui
+
+/// ----- VPN and filtering apps end ----- ///
+
+/// ----- SMS/MMS apps start ----- ///
+
+// Bug ID=AG-6501
+com.thinkleft.eightyeightsms.mms
+// Some more mms apps
+com.verizon.messaging.vzmsgs
+com.android.mms
+com.android.mms.service
+com.motorola.messaging
+// Bug ID=AG-6596
+com.textra
+// Bug ID=AG-6569
+ru.mail.my
+// Blocking MMS, Bug ID=AG-6659
+com.handcent.nextsms
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/75
+com.handcent.app.nextsms
+// Bug ID=AG-6780
+com.google.android.apps.messaging
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/49
+com.p1.chompsms
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/302
+com.project.materialmessaging
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/412
+com.skt.prod.tmessage
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/499
+com.disa
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2775
+com.turkcell.bip
+
+/// ----- SMS/MMS apps end ----- ///
+
+/// ----- Apps accessing LAN start ----- ///
+
+// Roku - unable to find devices on network
+// Bug ID=AG-7965
+com.roku.remote
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/237
+com.samsung.android.app.FileShareClient
+com.samsung.android.app.FileShareServer
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/245
+com.lge.qremote
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3181
+com.playstation.remoteplay
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/495
+com.gopro.smarty
+
+// Bug ID=AG-6656
+com.amazon.storm.lightning.client.aosp
+// Sonos controller
+com.sonos.acr
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1670
+com.verisign.mvip.main
+
+/// ----- Apps accessing LAN end ----- ///
+
+/// ----- Other issues start ----- ///
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1052
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3355
+// Disabling data filtering only for Google Play, the user can enable it later
+com.android.vending
+
+// PAC Console - ROM updater
+com.pac.console
+// Bug ID=AG-6993
+com.sec.spp.push
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/135
+org.appwork.myjdandroid
+
+// Auto authorization in Mosmetro
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/246
+com.slimd0g.automosmetrowifi
+pw.thedrhax.mosmetro
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/422
+com.zoiper.android.app
+com.csipsimple
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/321
+com.rcreations.WebCamViewerPaid
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/127
+com.dnset
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/607
+com.tmobile.pr.mytmobile
+
+// Bug ID=AG-6426
+com.android.providers.drm
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/673
+com.samsung.syncservice
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1505
+epic.mychart.android
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1790
+com.google.android.apps.nbu.paisa.user
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3185
+com.google.android.apps.searchlite
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1868
+com.stackpath.cloak
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1868
+com.blizzard.bma
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1891
+com.samsung.android.scloud
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1982
+ua.privatbank.ap24
+ua.privatbank.ap24.old
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2037
+ca.tangerine.clients.phone
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2028
+com.nest.android
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2180
+com.samsung.android.samsungpay.gear
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2324
+com.microsoft.appmanager
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2713
+com.google.android.captiveportallogin
+com.android.captiveportallogin
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/2953
+com.sipnetic.app
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3147
+by.gis.gidrometweather
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3281
+com.nttdocomo.keitai.payment
+com.kddi.android.cmail
+jp.videomarket.mb
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3310
+ru.rostel
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3573
+ru.sogaz.tm
+
+// https://jira.com/browse/AG-4510
+sales.scanngo.atbapp
+
+// https://jira.com/browse/AG-4348
+// Previously this app was excluded from ad blocking but for now it's not enough:
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/625
+com.konylabs.capitalone
+
+// https://jira.com/browse/AG-9207
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3909
+com.google.android.projection.gearhead
+
+// https://jira.com/browse/AG-23008
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/4777
+com.orange.phone
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/4989
+com.meross.meross
+
+/// ----- Other issues end ----- ///
+
+/// ----- Docomo issues apps start ----- ///
+
+// https://jira.com/browse/AGM-318
+jp.auone.wallet
+com.nttdocomo.android.msg
+jp.softbank.mb.plusmessage
+com.nttdocomo.android.mydocomo
+jp.co.softbank.OfficialApp
+com.nttdocomo.dcard
+com.nttdocomo.android.dpoint
+com.nttdocomo.android.dhits
+jp.co.nttdocomo.dtv
+jp.co.nttdocomo.videostoresc
+jp.co.nttdocomo.dtv.androidtv
+com.nttdocomo.dch
+com.nttdocomo.dmagazine
+com.nttdocomo.android.photocollection
+com.kddi.android.smartpass
+jp.wowma.app
+com.nttdocomo.android.dmenu2
+com.nttdocomo.android.docomo_market
+com.nttdocomo.android.danimeapp
+com.nttdocomo.android.danimeshortcut
+com.nttdocomo.android.danimestb
+jp.uqmobile.uqmobileportalapp
+com.dazn
+jp.co.disney.apps.gm.disneydx
+com.nttdocomo.android.sha2.kids
+
+/// ----- Docomo issues apps end ----- ///
+
+/// ----- Another one japanese issues apps start ----- ///
+
+jp.au.pia.up
+com.kddi.android.auemail
+com.kddi.android.aumail
+jp.co.nttdocomo.carriermail
+com.nttdocomo.android.docomomail
+jp.softbank.mb.mail
+jp.co.yahoo.android.ymobile.mail
+
+/// ----- Another one japanese issues apps end ----- ///
+
+// blocking ads breaks video player
+// Bug ID=AG-7983
+tv.vintera.smarttv
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/364
+// http://forum.adguard.com/showthread.php?9186
+com.bvblogic.nimbusnote
+
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/4075
+handasoft.mobile.divination
+handasoft.mobile.divination_pro
+
+// https://jira.com/browse/AG-4957
+pl.tvn.player
+
+https://jira.com/browse/AG-5605
+com.apple.movetoios
+
+// https://jira.com/browse/AG-10223
+com.inpost.fresh
+
+// https://jira.com/browse/AG-11330
+com.google.chromeremotedesktop
+
+//https://github.com/AdguardTeam/AdguardForAndroid/issues/4723
+tv.inetcom.phone2
+
+// https://jira.com/browse/AG-23925
+com.gpn.azs
+
+// https://jira.com/browse/AG-26715
+com.qualcomm.qti.cne
