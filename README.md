@@ -1,5 +1,7 @@
 # 🌐 AdGuard DNS Premium
 
+[![Descargar AdGuard APK](https://img.shields.io/badge/Descargar-AdGuard-blue)](https://github.com/CodeByDante/Adguard-dns/releases/download/Adguard/Adguard.apk)
+
 **AdGuard DNS Premium** es la versión avanzada de nuestro servicio de DNS, diseñada para ofrecerte funcionalidades adicionales que brindan mayor control, protección y personalización en tu experiencia de navegación.
 
 ## ✨ Características de AdGuard DNS Premium
